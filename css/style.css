@@ -1,0 +1,202 @@
+#header{ 
+    background-color: pink;
+    text-align: center;
+    height: 100px;
+    margin: 0px; 
+}
+
+#head{
+    float: left;
+    height: 100px
+}
+
+#headi{
+    float: left;
+    height: 100px
+}
+ 
+h1{ 
+    margin: 0px; 
+} 
+.wrapper{ 
+    display: inline;  
+} 
+#menu{ 
+    background-color:palevioletred; 
+    height:40px; 
+    width:100%; 
+    margin-top:0px; 
+    margin-bottom:0px;
+}
+
+.nav { 
+    float:left; 
+    margin:0px; 
+    padding:0px; 
+    width:100%;
+} 
+
+.wrap1{
+    display: inline-block;
+    background-color: #ffffff;
+    width: 68%;
+    height: 100%;
+}
+
+.wrap2{
+    float: right;
+    width: 25%;
+    height: flex;
+}
+
+.wrap3{
+    display: inline-block;
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+}
+
+.wrap4{
+    display: inline-block;
+    background-color: #ffffff;
+    width: 75%;
+    height: 100%;
+}
+
+.wrap5{
+    float: right;
+    width: 23%;
+    height: flex;
+}
+
+
+.nav li{
+    margin: 5px; 
+    padding: 5px; 
+    height:auto; 
+    list-style-type:none; 
+    float:left;
+    border-radius: 8px;
+    background-color: #ffb6c1;
+} 
+
+.nav li a{
+    padding: 10px; 
+    text-decoration:none; 
+} 
+
+.nav li a:link{
+    color: #FFFFFF;
+    padding: 1px;
+}
+.nav li a:hover{ 
+    font-weight:bold; 
+
+} 
+
+.nav li:hover{ 
+    background-color:#FFFFFF; 
+} 
+
+
+/* content */ 
+ 
+
+#content{ 
+    width: 100%; 
+    float: left;  
+    padding: 0 10px; 
+} 
+ 
+#berita{ 
+    margin: 20px 0 0 30px; 
+    height: 100%; 
+    float: left; 
+    padding: 20px; 
+    background-color:pink; 
+    border-radius: 5px; 
+}
+
+#awz{ 
+    margin: 20px 0 0 50px; 
+    height: 100%; 
+    float: left; 
+    padding: 20px; 
+    background-color:pink; 
+    border-radius: 5px; 
+}
+.iklan{ 
+    text-align: center;
+    width: 15%; 
+    height: 700px; 
+    float: left; 
+}
+
+.isi{
+    width: 85%;
+    background-color: #ffdbe9;
+    font-family: Verdana;
+    height: min-content;
+    padding-top: 50px;
+    float: left;
+}
+.content{
+    background-color: pink; 
+    width: 85%; 
+    height: 700px; 
+    float: left; 
+}
+
+    .navnws {
+        float: left;
+        margin: 0px;
+        padding: 0px;
+        width: 100%;
+    }
+
+    .navnws li {
+        padding:10px;
+        height: auto;
+        list-style-type: none;
+        border-right-width: 1px;
+        border-right-style: solid;
+        border-right-color:pink;
+        width: auto; text-align: left;
+    }
+
+    .navnws li a{
+        text-decoration: none;
+    }
+
+    .navnws li:hover {
+        background-color: #ffb6c1;
+    }
+ 
+#ad {
+    height: 500px;
+}
+
+#adi {
+    height: 300px;
+}
+
+#politik {
+    height: 100px;
+}
+
+#eduk {
+    height: 100px;
+}
+
+#foode {
+    height: 100px;
+}
+.footer{ 
+    text-align: center;
+    font-size: 13px;
+    background-color: #eba7ac;
+    height: 35px;
+    width: 100%;
+    float: left;
+}
+
